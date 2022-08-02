@@ -1,0 +1,60 @@
+﻿github pushpendra  
+  
+ pushpendra-yadav-iet
+	pushpendra babu
+	(+91)6387018533
+yp22952@gmail.com
+	Education   
+	Lucknow, India
+	Institute of Engineering & Technology
+	          Dec 2020 – Aug 2024
+	Bachelor of Technology
+	
+
+	Electronics and Instrumentation
+	
+
+	                                   CGPA: 8.40
+	Experience
+	
+
+e-Yantra Robotics Competition – 2021  Stage-2
+It is an international Robotics competition organized by ‘Indian Institute of Technology, Bombay’.
+Worked on FPGA ( Field Programmable Gate Array ) using Verilog HDL language.
+Worked on the Digi-Xbee module.
+This module uses wireless communication protocol.
+Worked on some electronics sensors – Line Following Sensor.
+
+
+TECHNICAL PROJECTS
+	
+
+Soil Monitoring Bot 
+
+
+In this theme, we build the SM Bot for deployment on an arena that abstracts an agriculture field.
+It uses wired and wireless communication.
+Concepts Used :FPGA architecture, FPGA programming using Verilog HDL, Wireless communication concepts, building  
+                          a bot using a real FPGA development board.        
+	
+
+	
+
+	
+
+	
+
+	ACHIEVEMENTS
+	* Codechef Rating 1535 – 2 Star.
+* Global Rank – 158 in ‘June Long Two 2022 Div 3’.
+* Codeforces Maximum Rating 1051.
+* Reached in Stage-2 of e-Yantra Robotics Competition – 2021  .
+* Codeforces pushpendra_20
+* Codechef sanni_20
+* LeetCode pushpendra_20
+	
+
+SKILLS
+	* Strongest Area: Data structure & Algorithms.
+* Languages: C, C++,  Python,  HTML, Verilog HDL.
+* Tools: Vscode, Quartus Prime.
